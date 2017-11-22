@@ -7,14 +7,11 @@
 repos=(
 
   airblade/vim-gitgutter
-  alampros/vim-styled-jsx
   altercation/vim-colors-solarized
-  ap/vim-css-color
   docunext/closetag.vim
   ervandew/supertab
   haya14busa/incsearch.vim
   itchyny/lightline.vim
-  jparise/vim-graphql
   junegunn/fzf.vim
   junegunn/goyo.vim
   mhartington/oceanic-next
@@ -23,8 +20,6 @@ repos=(
   qpkorr/vim-bufkill
   scrooloose/nerdtree
   sheerun/vim-polyglot
-  statico/vim-inform7
-  statico/vim-javascript-sql
   tomasr/molokai
   tpope/vim-commentary
   tpope/vim-endwise
